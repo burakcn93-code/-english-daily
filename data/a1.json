@@ -1,0 +1,1138 @@
+[
+  {
+    "id": 1,
+    "en": "be",
+    "tr": "olmak",
+    "sentence": "I want to be happy.",
+    "meaning": "Mutlu olmak istiyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "en": "have",
+    "tr": "sahip olmak",
+    "sentence": "I have a small family.",
+    "meaning": "Küçük bir ailem var.",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "en": "go",
+    "tr": "gitmek",
+    "sentence": "I go to work by bus.",
+    "meaning": "İşe otobüsle giderim.",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "en": "come",
+    "tr": "gelmek",
+    "sentence": "Please come here.",
+    "meaning": "Lütfen buraya gel.",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "en": "make",
+    "tr": "yapmak",
+    "sentence": "I make coffee every morning.",
+    "meaning": "Her sabah kahve yaparım.",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "en": "get",
+    "tr": "almak; edinmek",
+    "sentence": "I get up at seven.",
+    "meaning": "Saat yedide kalkarım.",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "en": "know",
+    "tr": "bilmek",
+    "sentence": "I know the answer.",
+    "meaning": "Cevabı biliyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "en": "think",
+    "tr": "düşünmek",
+    "sentence": "I think it is good.",
+    "meaning": "Bence bu iyi.",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "en": "see",
+    "tr": "görmek",
+    "sentence": "I can see the sea.",
+    "meaning": "Denizi görebiliyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "en": "look",
+    "tr": "bakmak",
+    "sentence": "Look at this picture.",
+    "meaning": "Bu resme bak.",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "en": "want",
+    "tr": "istemek",
+    "sentence": "I want some water.",
+    "meaning": "Biraz su istiyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "en": "need",
+    "tr": "ihtiyaç duymak",
+    "sentence": "I need your help.",
+    "meaning": "Yardımına ihtiyacım var.",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "en": "like",
+    "tr": "hoşlanmak",
+    "sentence": "I like this song.",
+    "meaning": "Bu şarkıyı seviyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "en": "love",
+    "tr": "sevmek",
+    "sentence": "I love reading books.",
+    "meaning": "Kitap okumayı seviyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "en": "work",
+    "tr": "çalışmak",
+    "sentence": "I work in an office.",
+    "meaning": "Bir ofiste çalışıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "en": "live",
+    "tr": "yaşamak",
+    "sentence": "I live in Istanbul.",
+    "meaning": "İstanbul'da yaşıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "en": "learn",
+    "tr": "öğrenmek",
+    "sentence": "I learn English every day.",
+    "meaning": "Her gün İngilizce öğreniyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "en": "speak",
+    "tr": "konuşmak",
+    "sentence": "I speak a little English.",
+    "meaning": "Biraz İngilizce konuşuyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "en": "read",
+    "tr": "okumak",
+    "sentence": "I read before bed.",
+    "meaning": "Yatmadan önce kitap okurum.",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "en": "write",
+    "tr": "yazmak",
+    "sentence": "Please write your name.",
+    "meaning": "Lütfen adını yaz.",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "en": "listen",
+    "tr": "dinlemek",
+    "sentence": "I listen to music.",
+    "meaning": "Müzik dinlerim.",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "en": "eat",
+    "tr": "yemek yemek",
+    "sentence": "We eat dinner at eight.",
+    "meaning": "Akşam yemeğini sekizde yeriz.",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "en": "drink",
+    "tr": "içmek",
+    "sentence": "I drink tea in the morning.",
+    "meaning": "Sabah çay içerim.",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "en": "sleep",
+    "tr": "uyumak",
+    "sentence": "I sleep for eight hours.",
+    "meaning": "Sekiz saat uyurum.",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "en": "walk",
+    "tr": "yürümek",
+    "sentence": "I walk to the shop.",
+    "meaning": "Dükkâna yürürüm.",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "en": "buy",
+    "tr": "satın almak",
+    "sentence": "I want to buy a new phone.",
+    "meaning": "Yeni bir telefon almak istiyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "en": "pay",
+    "tr": "ödemek",
+    "sentence": "Can I pay by card?",
+    "meaning": "Kartla ödeyebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "en": "open",
+    "tr": "açmak",
+    "sentence": "Open the window, please.",
+    "meaning": "Lütfen pencereyi aç.",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "en": "close",
+    "tr": "kapatmak",
+    "sentence": "Close the door.",
+    "meaning": "Kapıyı kapat.",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "en": "start",
+    "tr": "başlamak",
+    "sentence": "The lesson starts now.",
+    "meaning": "Ders şimdi başlıyor.",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "en": "finish",
+    "tr": "bitirmek",
+    "sentence": "I finish work at six.",
+    "meaning": "İşi altıda bitiririm.",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "en": "help",
+    "tr": "yardım etmek",
+    "sentence": "Can you help me?",
+    "meaning": "Bana yardım edebilir misin?",
+    "level": "A1"
+  },
+  {
+    "id": 33,
+    "en": "ask",
+    "tr": "sormak",
+    "sentence": "Can I ask a question?",
+    "meaning": "Bir soru sorabilir miyim?",
+    "level": "A1"
+  },
+  {
+    "id": 34,
+    "en": "answer",
+    "tr": "cevaplamak",
+    "sentence": "Please answer me.",
+    "meaning": "Lütfen bana cevap ver.",
+    "level": "A1"
+  },
+  {
+    "id": 35,
+    "en": "wait",
+    "tr": "beklemek",
+    "sentence": "Please wait a minute.",
+    "meaning": "Lütfen bir dakika bekle.",
+    "level": "A1"
+  },
+  {
+    "id": 36,
+    "en": "call",
+    "tr": "aramak",
+    "sentence": "I will call you tonight.",
+    "meaning": "Seni bu akşam arayacağım.",
+    "level": "A1"
+  },
+  {
+    "id": 37,
+    "en": "meet",
+    "tr": "buluşmak",
+    "sentence": "Let's meet tomorrow.",
+    "meaning": "Yarın buluşalım.",
+    "level": "A1"
+  },
+  {
+    "id": 38,
+    "en": "give",
+    "tr": "vermek",
+    "sentence": "Give me a minute.",
+    "meaning": "Bana bir dakika ver.",
+    "level": "A1"
+  },
+  {
+    "id": 39,
+    "en": "take",
+    "tr": "almak",
+    "sentence": "Take your bag.",
+    "meaning": "Çantanı al.",
+    "level": "A1"
+  },
+  {
+    "id": 40,
+    "en": "find",
+    "tr": "bulmak",
+    "sentence": "I can't find my keys.",
+    "meaning": "Anahtarlarımı bulamıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 41,
+    "en": "feel",
+    "tr": "hissetmek",
+    "sentence": "I feel tired today.",
+    "meaning": "Bugün yorgun hissediyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 42,
+    "en": "remember",
+    "tr": "hatırlamak",
+    "sentence": "I remember your name.",
+    "meaning": "Adını hatırlıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 43,
+    "en": "forget",
+    "tr": "unutmak",
+    "sentence": "Don't forget your phone.",
+    "meaning": "Telefonunu unutma.",
+    "level": "A1"
+  },
+  {
+    "id": 44,
+    "en": "understand",
+    "tr": "anlamak",
+    "sentence": "I understand the question.",
+    "meaning": "Soruyu anlıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 45,
+    "en": "happy",
+    "tr": "mutlu",
+    "sentence": "She is happy today.",
+    "meaning": "O bugün mutlu.",
+    "level": "A1"
+  },
+  {
+    "id": 46,
+    "en": "sad",
+    "tr": "üzgün",
+    "sentence": "He looks sad.",
+    "meaning": "Üzgün görünüyor.",
+    "level": "A1"
+  },
+  {
+    "id": 47,
+    "en": "tired",
+    "tr": "yorgun",
+    "sentence": "I am very tired.",
+    "meaning": "Çok yorgunum.",
+    "level": "A1"
+  },
+  {
+    "id": 48,
+    "en": "hungry",
+    "tr": "aç",
+    "sentence": "I am hungry.",
+    "meaning": "Açım.",
+    "level": "A1"
+  },
+  {
+    "id": 49,
+    "en": "thirsty",
+    "tr": "susamış",
+    "sentence": "Are you thirsty?",
+    "meaning": "Susadın mı?",
+    "level": "A1"
+  },
+  {
+    "id": 50,
+    "en": "busy",
+    "tr": "meşgul",
+    "sentence": "I am busy right now.",
+    "meaning": "Şu anda meşgulüm.",
+    "level": "A1"
+  },
+  {
+    "id": 51,
+    "en": "free",
+    "tr": "boş; ücretsiz",
+    "sentence": "Are you free tonight?",
+    "meaning": "Bu akşam müsait misin?",
+    "level": "A1"
+  },
+  {
+    "id": 52,
+    "en": "easy",
+    "tr": "kolay",
+    "sentence": "This question is easy.",
+    "meaning": "Bu soru kolay.",
+    "level": "A1"
+  },
+  {
+    "id": 53,
+    "en": "difficult",
+    "tr": "zor",
+    "sentence": "English is not difficult.",
+    "meaning": "İngilizce zor değil.",
+    "level": "A1"
+  },
+  {
+    "id": 54,
+    "en": "beautiful",
+    "tr": "güzel",
+    "sentence": "It is a beautiful day.",
+    "meaning": "Güzel bir gün.",
+    "level": "A1"
+  },
+  {
+    "id": 55,
+    "en": "important",
+    "tr": "önemli",
+    "sentence": "This is important.",
+    "meaning": "Bu önemli.",
+    "level": "A1"
+  },
+  {
+    "id": 56,
+    "en": "different",
+    "tr": "farklı",
+    "sentence": "We have different ideas.",
+    "meaning": "Farklı fikirlerimiz var.",
+    "level": "A1"
+  },
+  {
+    "id": 57,
+    "en": "early",
+    "tr": "erken",
+    "sentence": "I get up early.",
+    "meaning": "Erken kalkarım.",
+    "level": "A1"
+  },
+  {
+    "id": 58,
+    "en": "late",
+    "tr": "geç",
+    "sentence": "Sorry, I am late.",
+    "meaning": "Üzgünüm, geç kaldım.",
+    "level": "A1"
+  },
+  {
+    "id": 59,
+    "en": "always",
+    "tr": "her zaman",
+    "sentence": "I always drink water.",
+    "meaning": "Her zaman su içerim.",
+    "level": "A1"
+  },
+  {
+    "id": 60,
+    "en": "usually",
+    "tr": "genellikle",
+    "sentence": "I usually walk to work.",
+    "meaning": "Genellikle işe yürürüm.",
+    "level": "A1"
+  },
+  {
+    "id": 61,
+    "en": "sometimes",
+    "tr": "bazen",
+    "sentence": "I sometimes cook dinner.",
+    "meaning": "Bazen akşam yemeği yaparım.",
+    "level": "A1"
+  },
+  {
+    "id": 62,
+    "en": "never",
+    "tr": "asla; hiç",
+    "sentence": "I never smoke.",
+    "meaning": "Asla sigara içmem.",
+    "level": "A1"
+  },
+  {
+    "id": 63,
+    "en": "today",
+    "tr": "bugün",
+    "sentence": "Today is a good day.",
+    "meaning": "Bugün güzel bir gün.",
+    "level": "A1"
+  },
+  {
+    "id": 64,
+    "en": "tomorrow",
+    "tr": "yarın",
+    "sentence": "See you tomorrow.",
+    "meaning": "Yarın görüşürüz.",
+    "level": "A1"
+  },
+  {
+    "id": 65,
+    "en": "yesterday",
+    "tr": "dün",
+    "sentence": "I was at home yesterday.",
+    "meaning": "Dün evdeydim.",
+    "level": "A1"
+  },
+  {
+    "id": 66,
+    "en": "morning",
+    "tr": "sabah",
+    "sentence": "Good morning!",
+    "meaning": "Günaydın!",
+    "level": "A1"
+  },
+  {
+    "id": 67,
+    "en": "evening",
+    "tr": "akşam",
+    "sentence": "I read in the evening.",
+    "meaning": "Akşamları kitap okurum.",
+    "level": "A1"
+  },
+  {
+    "id": 68,
+    "en": "night",
+    "tr": "gece",
+    "sentence": "Good night!",
+    "meaning": "İyi geceler!",
+    "level": "A1"
+  },
+  {
+    "id": 69,
+    "en": "week",
+    "tr": "hafta",
+    "sentence": "I work five days a week.",
+    "meaning": "Haftada beş gün çalışırım.",
+    "level": "A1"
+  },
+  {
+    "id": 70,
+    "en": "time",
+    "tr": "zaman; saat",
+    "sentence": "What time is it?",
+    "meaning": "Saat kaç?",
+    "level": "A1"
+  },
+  {
+    "id": 71,
+    "en": "hour",
+    "tr": "saat",
+    "sentence": "Wait for one hour.",
+    "meaning": "Bir saat bekle.",
+    "level": "A1"
+  },
+  {
+    "id": 72,
+    "en": "minute",
+    "tr": "dakika",
+    "sentence": "Just a minute, please.",
+    "meaning": "Bir dakika lütfen.",
+    "level": "A1"
+  },
+  {
+    "id": 73,
+    "en": "day",
+    "tr": "gün",
+    "sentence": "Have a nice day.",
+    "meaning": "İyi günler.",
+    "level": "A1"
+  },
+  {
+    "id": 74,
+    "en": "people",
+    "tr": "insanlar",
+    "sentence": "Many people live here.",
+    "meaning": "Burada birçok insan yaşıyor.",
+    "level": "A1"
+  },
+  {
+    "id": 75,
+    "en": "friend",
+    "tr": "arkadaş",
+    "sentence": "He is my best friend.",
+    "meaning": "O benim en iyi arkadaşım.",
+    "level": "A1"
+  },
+  {
+    "id": 76,
+    "en": "family",
+    "tr": "aile",
+    "sentence": "My family is big.",
+    "meaning": "Ailem kalabalık.",
+    "level": "A1"
+  },
+  {
+    "id": 77,
+    "en": "mother",
+    "tr": "anne",
+    "sentence": "My mother is at home.",
+    "meaning": "Annem evde.",
+    "level": "A1"
+  },
+  {
+    "id": 78,
+    "en": "father",
+    "tr": "baba",
+    "sentence": "My father likes music.",
+    "meaning": "Babam müziği sever.",
+    "level": "A1"
+  },
+  {
+    "id": 79,
+    "en": "home",
+    "tr": "ev",
+    "sentence": "I am going home.",
+    "meaning": "Eve gidiyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 80,
+    "en": "house",
+    "tr": "ev; bina",
+    "sentence": "Their house is beautiful.",
+    "meaning": "Onların evi güzel.",
+    "level": "A1"
+  },
+  {
+    "id": 81,
+    "en": "room",
+    "tr": "oda",
+    "sentence": "My room is small.",
+    "meaning": "Odam küçük.",
+    "level": "A1"
+  },
+  {
+    "id": 82,
+    "en": "door",
+    "tr": "kapı",
+    "sentence": "The door is open.",
+    "meaning": "Kapı açık.",
+    "level": "A1"
+  },
+  {
+    "id": 83,
+    "en": "window",
+    "tr": "pencere",
+    "sentence": "Open the window.",
+    "meaning": "Pencereyi aç.",
+    "level": "A1"
+  },
+  {
+    "id": 84,
+    "en": "table",
+    "tr": "masa",
+    "sentence": "The book is on the table.",
+    "meaning": "Kitap masanın üzerinde.",
+    "level": "A1"
+  },
+  {
+    "id": 85,
+    "en": "chair",
+    "tr": "sandalye",
+    "sentence": "Please sit on this chair.",
+    "meaning": "Lütfen bu sandalyeye otur.",
+    "level": "A1"
+  },
+  {
+    "id": 86,
+    "en": "book",
+    "tr": "kitap",
+    "sentence": "This book is interesting.",
+    "meaning": "Bu kitap ilginç.",
+    "level": "A1"
+  },
+  {
+    "id": 87,
+    "en": "water",
+    "tr": "su",
+    "sentence": "Can I have some water?",
+    "meaning": "Biraz su alabilir miyim?",
+    "level": "A1"
+  },
+  {
+    "id": 88,
+    "en": "food",
+    "tr": "yiyecek; yemek",
+    "sentence": "The food is delicious.",
+    "meaning": "Yemek lezzetli.",
+    "level": "A1"
+  },
+  {
+    "id": 89,
+    "en": "money",
+    "tr": "para",
+    "sentence": "I don't have much money.",
+    "meaning": "Çok param yok.",
+    "level": "A1"
+  },
+  {
+    "id": 90,
+    "en": "price",
+    "tr": "fiyat",
+    "sentence": "What is the price?",
+    "meaning": "Fiyatı nedir?",
+    "level": "A1"
+  },
+  {
+    "id": 91,
+    "en": "shop",
+    "tr": "dükkân; mağaza",
+    "sentence": "The shop is closed.",
+    "meaning": "Mağaza kapalı.",
+    "level": "A1"
+  },
+  {
+    "id": 92,
+    "en": "street",
+    "tr": "sokak",
+    "sentence": "This street is very busy.",
+    "meaning": "Bu sokak çok kalabalık.",
+    "level": "A1"
+  },
+  {
+    "id": 93,
+    "en": "city",
+    "tr": "şehir",
+    "sentence": "I love this city.",
+    "meaning": "Bu şehri seviyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 94,
+    "en": "country",
+    "tr": "ülke",
+    "sentence": "Turkey is a beautiful country.",
+    "meaning": "Türkiye güzel bir ülke.",
+    "level": "A1"
+  },
+  {
+    "id": 95,
+    "en": "car",
+    "tr": "araba",
+    "sentence": "My car is new.",
+    "meaning": "Arabam yeni.",
+    "level": "A1"
+  },
+  {
+    "id": 96,
+    "en": "bus",
+    "tr": "otobüs",
+    "sentence": "I take the bus to work.",
+    "meaning": "İşe otobüsle giderim.",
+    "level": "A1"
+  },
+  {
+    "id": 97,
+    "en": "train",
+    "tr": "tren",
+    "sentence": "The train is late.",
+    "meaning": "Tren gecikti.",
+    "level": "A1"
+  },
+  {
+    "id": 98,
+    "en": "school",
+    "tr": "okul",
+    "sentence": "The school is near my home.",
+    "meaning": "Okul evime yakın.",
+    "level": "A1"
+  },
+  {
+    "id": 99,
+    "en": "teacher",
+    "tr": "öğretmen",
+    "sentence": "Our teacher is kind.",
+    "meaning": "Öğretmenimiz nazik.",
+    "level": "A1"
+  },
+  {
+    "id": 100,
+    "en": "student",
+    "tr": "öğrenci",
+    "sentence": "I am an English student.",
+    "meaning": "İngilizce öğrencisiyim.",
+    "level": "A1"
+  },
+  {
+    "id": 101,
+    "en": "language",
+    "tr": "dil",
+    "sentence": "English is a useful language.",
+    "meaning": "İngilizce faydalı bir dildir.",
+    "level": "A1"
+  },
+  {
+    "id": 102,
+    "en": "question",
+    "tr": "soru",
+    "sentence": "I have a question.",
+    "meaning": "Bir sorum var.",
+    "level": "A1"
+  },
+  {
+    "id": 103,
+    "en": "problem",
+    "tr": "sorun",
+    "sentence": "We have a small problem.",
+    "meaning": "Küçük bir sorunumuz var.",
+    "level": "A1"
+  },
+  {
+    "id": 104,
+    "en": "idea",
+    "tr": "fikir",
+    "sentence": "That is a good idea.",
+    "meaning": "Bu iyi bir fikir.",
+    "level": "A1"
+  },
+  {
+    "id": 105,
+    "en": "small",
+    "tr": "küçük",
+    "sentence": "I live in a small flat.",
+    "meaning": "Küçük bir dairede yaşıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 106,
+    "en": "large",
+    "tr": "büyük",
+    "sentence": "This is a large room.",
+    "meaning": "Bu büyük bir oda.",
+    "level": "A1"
+  },
+  {
+    "id": 107,
+    "en": "big",
+    "tr": "büyük",
+    "sentence": "I have a big family.",
+    "meaning": "Kalabalık bir ailem var.",
+    "level": "A1"
+  },
+  {
+    "id": 108,
+    "en": "long",
+    "tr": "uzun",
+    "sentence": "It is a long road.",
+    "meaning": "Bu uzun bir yol.",
+    "level": "A1"
+  },
+  {
+    "id": 109,
+    "en": "short",
+    "tr": "kısa",
+    "sentence": "The film is short.",
+    "meaning": "Film kısa.",
+    "level": "A1"
+  },
+  {
+    "id": 110,
+    "en": "new",
+    "tr": "yeni",
+    "sentence": "I have a new phone.",
+    "meaning": "Yeni bir telefonum var.",
+    "level": "A1"
+  },
+  {
+    "id": 111,
+    "en": "old",
+    "tr": "eski; yaşlı",
+    "sentence": "This is an old book.",
+    "meaning": "Bu eski bir kitap.",
+    "level": "A1"
+  },
+  {
+    "id": 112,
+    "en": "good",
+    "tr": "iyi",
+    "sentence": "Have a good day.",
+    "meaning": "İyi günler.",
+    "level": "A1"
+  },
+  {
+    "id": 113,
+    "en": "bad",
+    "tr": "kötü",
+    "sentence": "The weather is bad.",
+    "meaning": "Hava kötü.",
+    "level": "A1"
+  },
+  {
+    "id": 114,
+    "en": "right",
+    "tr": "doğru; sağ",
+    "sentence": "Your answer is right.",
+    "meaning": "Cevabın doğru.",
+    "level": "A1"
+  },
+  {
+    "id": 115,
+    "en": "wrong",
+    "tr": "yanlış",
+    "sentence": "This number is wrong.",
+    "meaning": "Bu numara yanlış.",
+    "level": "A1"
+  },
+  {
+    "id": 116,
+    "en": "hot",
+    "tr": "sıcak",
+    "sentence": "It is hot today.",
+    "meaning": "Bugün hava sıcak.",
+    "level": "A1"
+  },
+  {
+    "id": 117,
+    "en": "cold",
+    "tr": "soğuk",
+    "sentence": "The water is cold.",
+    "meaning": "Su soğuk.",
+    "level": "A1"
+  },
+  {
+    "id": 118,
+    "en": "clean",
+    "tr": "temiz",
+    "sentence": "Keep your room clean.",
+    "meaning": "Odanı temiz tut.",
+    "level": "A1"
+  },
+  {
+    "id": 119,
+    "en": "dirty",
+    "tr": "kirli",
+    "sentence": "My shoes are dirty.",
+    "meaning": "Ayakkabılarım kirli.",
+    "level": "A1"
+  },
+  {
+    "id": 120,
+    "en": "full",
+    "tr": "dolu",
+    "sentence": "The bus is full.",
+    "meaning": "Otobüs dolu.",
+    "level": "A1"
+  },
+  {
+    "id": 121,
+    "en": "empty",
+    "tr": "boş",
+    "sentence": "The bottle is empty.",
+    "meaning": "Şişe boş.",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "en": "nice",
+    "tr": "hoş; güzel",
+    "sentence": "It is nice to meet you.",
+    "meaning": "Tanıştığıma memnun oldum.",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "en": "funny",
+    "tr": "komik",
+    "sentence": "That story is funny.",
+    "meaning": "O hikâye komik.",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "en": "interesting",
+    "tr": "ilginç",
+    "sentence": "This film is interesting.",
+    "meaning": "Bu film ilginç.",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "en": "ready",
+    "tr": "hazır",
+    "sentence": "Are you ready?",
+    "meaning": "Hazır mısın?",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "en": "maybe",
+    "tr": "belki",
+    "sentence": "Maybe I will come.",
+    "meaning": "Belki gelirim.",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "en": "before",
+    "tr": "önce",
+    "sentence": "Wash your hands before dinner.",
+    "meaning": "Akşam yemeğinden önce ellerini yıka.",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "en": "after",
+    "tr": "sonra",
+    "sentence": "Call me after work.",
+    "meaning": "İşten sonra beni ara.",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "en": "with",
+    "tr": "ile",
+    "sentence": "I live with my family.",
+    "meaning": "Ailemle yaşıyorum.",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "en": "without",
+    "tr": "-sız; olmadan",
+    "sentence": "I drink tea without sugar.",
+    "meaning": "Şekersiz çay içerim.",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "en": "under",
+    "tr": "altında",
+    "sentence": "The cat is under the table.",
+    "meaning": "Kedi masanın altında.",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "en": "near",
+    "tr": "yakın",
+    "sentence": "The station is near here.",
+    "meaning": "İstasyon buraya yakın.",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "en": "far",
+    "tr": "uzak",
+    "sentence": "My office is far from home.",
+    "meaning": "Ofisim eve uzak.",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "en": "left",
+    "tr": "sol",
+    "sentence": "Turn left here.",
+    "meaning": "Buradan sola dön.",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "en": "first",
+    "tr": "ilk; birinci",
+    "sentence": "This is my first lesson.",
+    "meaning": "Bu benim ilk dersim.",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "en": "next",
+    "tr": "sonraki; gelecek",
+    "sentence": "See you next week.",
+    "meaning": "Gelecek hafta görüşürüz.",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "en": "every",
+    "tr": "her",
+    "sentence": "I study every day.",
+    "meaning": "Her gün çalışırım.",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "en": "many",
+    "tr": "çok (sayılabilen)",
+    "sentence": "How many people are there?",
+    "meaning": "Kaç kişi var?",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "en": "some",
+    "tr": "biraz; bazı",
+    "sentence": "I need some help.",
+    "meaning": "Biraz yardıma ihtiyacım var.",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "en": "more",
+    "tr": "daha fazla",
+    "sentence": "I need more time.",
+    "meaning": "Daha fazla zamana ihtiyacım var.",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "en": "very",
+    "tr": "çok",
+    "sentence": "I am very happy.",
+    "meaning": "Çok mutluyum.",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "en": "again",
+    "tr": "tekrar",
+    "sentence": "Please say it again.",
+    "meaning": "Lütfen tekrar söyle.",
+    "level": "A1"
+  }
+]

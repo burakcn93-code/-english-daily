@@ -1,24 +1,6 @@
-ENGLISH DAILY — İlk web uygulaması
+English Daily v2
+Bu pakette 142 A1 başlangıç kelimesi bulunur (1.000 değil; ilk genişletilmiş paket).
+Özellikler: günlük en fazla 15 yeni kelime, Türkçeyi aç/kapat, örnek cümle/çeviri, tarayıcıda İngilizce seslendirme, cihazda ilerleme kaydı, 1 gün sonra ilk tekrar, tekrar listesi, mini test, kendi kelimeni ekleme, PWA önbelleği.
 
-Bu paket bir Progressive Web App (PWA) başlangıç sürümüdür.
-İçerik:
-- A1 başlangıç kelimeleri
-- Önce İngilizceyi gösterme, dokununca Türkçe anlamı açma
-- Örnek cümle ve çevirisi
-- Öğrenildi işaretleme
-- Kendi kelimelerini ekleme
-- İlerlemeyi bu cihazın tarayıcısında saklama
-- Basit çevrimdışı önbellek
-
-WINDOWS'TA TEST:
-1. ZIP'i klasöre çıkar.
-2. index.html dosyasını çift tıklayarak açıp deneyebilirsin.
-3. PWA/çevrimdışı kurulum için dosyaları HTTPS destekleyen bir statik barındırma hizmetine yüklemek gerekir.
-
-IPHONE'A EKLEME:
-1. Yayına alınmış HTTPS adresini iPhone Safari'de aç.
-2. Paylaş > Ana Ekrana Ekle.
-Bu, ana ekrana web uygulaması ekler. Gerçek iOS kilit ekranı widget'ı sağlamaz.
-
-GERÇEK iOS WIDGET:
-Native iOS uygulaması ve WidgetKit gerekir; bunun için Xcode/macOS derleme ve Apple imzalama süreci gerekir. Bu paket tek başına App Store uygulaması değildir.
+GitHub'a yükleme: Depo > Kod > Dosya ekle > Dosyaları karşıya yükle. ZIP'i bilgisayarda ayıkla; index.html, manifest.json, sw.js ve data klasörünü yükle. Değişiklikleri kaydet. iPhone ana ekran uygulamasını tamamen kapatıp yeniden aç.
+Not: Bu web uygulaması iPhone ana ekranına eklenebilir; yerel iOS kilit ekranı widget'ı değildir. İlerleme cihazın tarayıcı depolamasında tutulur. Tarayıcı verilerini silmek ilerlemeyi silebilir.
