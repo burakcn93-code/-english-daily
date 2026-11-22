@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17243a"><link rel="manifest" href="manifest.json">
+<title>English Daily</title>
+<style>
+:root{--navy:#17243a;--blue:#3286d8;--bg:#f3f6fb;--ink:#182338;--muted:#718096}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);font:16px system-ui,-apple-system,sans-serif;color:var(--ink)}
+header{background:var(--navy);color:white;padding:22px 20px 28px;border-radius:0 0 26px 26px}
+.wrap{max-width:650px;margin:auto;padding:0 16px 32px}.brand{font-size:23px;font-weight:800;letter-spacing:.2px}.sub{color:#c5d3e5;font-size:13px;margin-top:4px}
+.stats{display:flex;gap:10px;margin-top:18px}.stat{background:#263b58;border-radius:14px;padding:12px;flex:1}.stat b{display:block;font-size:22px}.stat span{font-size:12px;color:#c5d3e5}
+main{margin-top:18px}.tabs{display:flex;gap:8px;margin-bottom:14px}.tabs button{flex:1}
+button{border:0;border-radius:12px;padding:12px 14px;font-weight:700;background:var(--blue);color:white;font-size:14px;cursor:pointer}
+button.secondary{background:#e5edf7;color:#29415f}button:disabled{opacity:.4}
+.card{background:white;border-radius:22px;padding:24px;box-shadow:0 8px 30px #233b5a12;text-align:center}
+.eyebrow{font-size:11px;font-weight:800;letter-spacing:1.2px;color:var(--blue)}
+.word{font-size:38px;font-weight:850;margin:14px 0 2px}.pron{color:var(--muted);font-size:13px}
+.reveal{margin-top:20px;border-top:1px solid #edf1f6;padding-top:18px}.meaning{font-size:24px;font-weight:800;color:#19845b}.sentence{font-size:17px;font-weight:650;margin-top:15px}.translation{font-size:14px;color:var(--muted);margin-top:5px}
+.actions{display:flex;gap:8px;margin-top:18px}.actions button{flex:1}.progress{height:7px;background:#e7edf5;border-radius:10px;overflow:hidden;margin:10px 0 18px}.progress i{display:block;height:100%;background:var(--blue);width:0}
+.section{background:white;border-radius:18px;padding:18px;margin-top:14px}.section h2{font-size:17px;margin:0 0 12px}.small{font-size:13px;color:var(--muted)}
+input{width:100%;padding:13px;border:1px solid #dce4ef;border-radius:12px;font-size:16px;margin:8px 0}
+.listrow{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #edf1f6}.listrow:last-child{border:0}
+footer{text-align:center;color:var(--muted);font-size:12px;margin:20px 0}
+</style></head>
+<body>
+<header><div class="wrap"><div class="brand">✦ English Daily</div><div class="sub">A1 · Her gün biraz daha iyi İngilizce</div>
+<div class="stats"><div class="stat"><b id="learned">0</b><span>Öğrenilen kelime</span></div><div class="stat"><b id="streak">0</b><span>Bugünkü tekrar</span></div><div class="stat"><b>15</b><span>Günlük hedef</span></div></div></div></header>
+<div class="wrap"><main>
+<div class="tabs"><button id="learnTab">Kelime çalış</button><button class="secondary" id="reviewTab">Tekrar listem</button></div>
+<div id="learnView">
+<div class="small" id="counter">Kelime 1 / 20</div><div class="progress"><i id="bar"></i></div>
+<div class="card"><div class="eyebrow">ÖNCE İNGİLİZCEYİ HATIRLA</div><div class="word" id="word">Improve</div><div class="pron" id="pron">/ɪmˈpruːv/</div>
+<div id="answer" class="reveal" hidden><div class="meaning" id="meaning"></div><div class="sentence" id="sentence"></div><div class="translation" id="translation"></div></div>
+<div style="margin-top:20px"><button id="show">Türkçe anlamı göster</button></div></div>
+<div class="actions"><button class="secondary" id="prev">← Geri</button><button id="known">✓ Biliyorum</button><button class="secondary" id="next">Sonraki →</button></div>
+</div>
+<div id="reviewView" hidden><div class="section"><h2>Tekrar etmen gerekenler</h2><div id="reviewList" class="small">Henüz tekrar listen yok.</div></div></div>
+<div class="section"><h2>Günün mini hedefi</h2><div class="small">15 kelime öğren, örnek cümleyi sesli oku ve gün sonunda tekrar et. İlerlemen bu cihazda saklanır.</div></div>
+<div class="section"><h2>Kendi kelimeni ekle</h2><input id="newWord" placeholder="İngilizce kelime"><input id="newMeaning" placeholder="Türkçe anlamı"><input id="newSentence" placeholder="Örnek cümle (isteğe bağlı)"><button id="add" style="width:100%">Kelimeyi ekle</button></div>
+<footer>English Daily · İlk web sürümü · İnternet olmadan da açılabilecek şekilde tasarlandı.</footer>
+</main></div>
+<script>
+const starter=[
+["Improve","Geliştirmek","I want to improve my English.","İngilizcemi geliştirmek istiyorum.","/ɪmˈpruːv/"],
+["Choose","Seçmek","You can choose what you want.","İstediğini seçebilirsin.","/tʃuːz/"],
+["Believe","İnanmak","I believe in you.","Sana inanıyorum.","/bɪˈliːv/"],
+["Remember","Hatırlamak","I remember your voice.","Sesini hatırlıyorum.","/rɪˈmembər/"],
+["Perhaps","Belki","Perhaps we can meet tomorrow.","Belki yarın buluşabiliriz.","/pərˈhæps/"],
+["Enough","Yeterli","I have enough time.","Yeterince zamanım var.","/ɪˈnʌf/"],
+["Borrow","Ödünç almak","Can I borrow your book?","Kitabını ödünç alabilir miyim?","/ˈbɑːroʊ/"],
+["Enjoy","Keyif almak","I enjoy learning English.","İngilizce öğrenmekten keyif alıyorum.","/ɪnˈdʒɔɪ/"],
+["Usually","Genellikle","I usually wake up early.","Genellikle erken uyanırım.","/ˈjuːʒuəli/"],
+["Busy","Meşgul","I am busy today.","Bugün meşgulüm.","/ˈbɪzi/"],
+["Quiet","Sessiz","Please be quiet.","Lütfen sessiz ol.","/ˈkwaɪət/"],
+["Early","Erken","I get up early.","Erken kalkarım.","/ˈɜːrli/"],
+["Together","Birlikte","We can learn together.","Birlikte öğrenebiliriz.","/təˈɡeðər/"],
+["Always","Her zaman","I always drink water.","Her zaman su içerim.","/ˈɔːlweɪz/"],
+["Sometimes","Bazen","I sometimes read at night.","Bazen geceleri okurum.","/ˈsʌmtaɪmz/"],
+["Need","İhtiyaç duymak","I need your help.","Yardımına ihtiyacım var.","/niːd/"],
+["Want","İstemek","I want a cup of tea.","Bir fincan çay istiyorum.","/wɑːnt/"],
+["Learn","Öğrenmek","I learn English every day.","Her gün İngilizce öğreniyorum.","/lɜːrn/"],
+["Speak","Konuşmak","I speak a little English.","Biraz İngilizce konuşuyorum.","/spiːk/"],
+["Understand","Anlamak","I understand you.","Seni anlıyorum.","/ˌʌndərˈstænd/"]
+].map(x=>({en:x[0],tr:x[1],sentence:x[2],meaning:x[3],pron:x[4]}));
+let custom=JSON.parse(localStorage.getItem("ed_custom")||"[]"), learned=JSON.parse(localStorage.getItem("ed_learned")||"[]"), idx=0, data=[...starter,...custom];
+const $=id=>document.getElementById(id);
+function save(){localStorage.setItem("ed_learned",JSON.stringify(learned));localStorage.setItem("ed_custom",JSON.stringify(custom));}
+function render(){let w=data[idx];$("word").textContent=w.en;$("pron").textContent=w.pron||"";$("meaning").textContent=w.tr;$("sentence").textContent=w.sentence||"";$("translation").textContent=w.meaning||"";$("answer").hidden=true;$("show").textContent="Türkçe anlamı göster";$("counter").textContent=`Kelime ${idx+1} / ${data.length}`;$("bar").style.width=`${(idx+1)/data.length*100}%`;$("learned").textContent=learned.length;$("streak").textContent=learned.length;$("prev").disabled=idx===0;$("known").textContent=learned.includes(w.en)?"✓ Öğrenildi":"✓ Biliyorum";$("known").disabled=learned.includes(w.en);}
+$("show").onclick=()=>{$("answer").hidden=!$("answer").hidden;$("show").textContent=$("answer").hidden?"Türkçe anlamı göster":"Anlamı gizle";};
+$("next").onclick=()=>{idx=(idx+1)%data.length;render()};$("prev").onclick=()=>{idx=Math.max(0,idx-1);render()};
+$("known").onclick=()=>{learned.push(data[idx].en);save();render();};
+$("learnTab").onclick=()=>{$("learnView").hidden=false;$("reviewView").hidden=true;$("learnTab").className="";$("reviewTab").className="secondary";};
+$("reviewTab").onclick=()=>{$("learnView").hidden=true;$("reviewView").hidden=false;$("learnTab").className="secondary";$("reviewTab").className="";$("reviewList").innerHTML=learned.length?learned.map(w=>`<div class="listrow"><b>${escapeHtml(w)}</b><span>✓ Öğrenildi</span></div>`).join(""):"Henüz öğrenildi olarak işaretlediğin kelime yok.";};
+function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+$("add").onclick=()=>{let en=$("newWord").value.trim(),tr=$("newMeaning").value.trim(),sentence=$("newSentence").value.trim();if(!en||!tr){alert("İngilizce kelime ve Türkçe anlamını gir.");return;}custom.push({en,tr,sentence,meaning:"",pron:""});data=[...starter,...custom];save();$("newWord").value=$("newMeaning").value=$("newSentence").value="";idx=data.length-1;render();alert("Kelime eklendi!");};
+if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));render();
+</script></body></html>
