@@ -5,7 +5,8 @@
     "tr": "olmak",
     "sentence": "I want to be happy.",
     "meaning": "Mutlu olmak istiyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BE kelimesini canlandır: olmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "tr": "sahip olmak",
     "sentence": "I have a small family.",
     "meaning": "Küçük bir ailem var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HAVE kelimesini canlandır: sahip olmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HAVE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "tr": "gitmek",
     "sentence": "I go to work by bus.",
     "meaning": "İşe otobüsle giderim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde GO kelimesini canlandır: gitmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede GO kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "tr": "gelmek",
     "sentence": "Please come here.",
     "meaning": "Lütfen buraya gel.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde COME kelimesini canlandır: gelmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede COME kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "tr": "yapmak",
     "sentence": "I make coffee every morning.",
     "meaning": "Her sabah kahve yaparım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MAKE kelimesini canlandır: yapmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MAKE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "tr": "almak; edinmek",
     "sentence": "I get up at seven.",
     "meaning": "Saat yedide kalkarım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde GET kelimesini canlandır: almak; edinmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede GET kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "tr": "bilmek",
     "sentence": "I know the answer.",
     "meaning": "Cevabı biliyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde KNOW kelimesini canlandır: bilmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede KNOW kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "tr": "düşünmek",
     "sentence": "I think it is good.",
     "meaning": "Bence bu iyi.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde THINK kelimesini canlandır: düşünmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede THINK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "tr": "görmek",
     "sentence": "I can see the sea.",
     "meaning": "Denizi görebiliyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SEE kelimesini canlandır: görmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SEE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "tr": "bakmak",
     "sentence": "Look at this picture.",
     "meaning": "Bu resme bak.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LOOK kelimesini canlandır: bakmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LOOK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "tr": "istemek",
     "sentence": "I want some water.",
     "meaning": "Biraz su istiyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WANT kelimesini canlandır: istemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WANT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "tr": "ihtiyaç duymak",
     "sentence": "I need your help.",
     "meaning": "Yardımına ihtiyacım var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NEED kelimesini canlandır: ihtiyaç duymak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NEED kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "tr": "hoşlanmak",
     "sentence": "I like this song.",
     "meaning": "Bu şarkıyı seviyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LIKE kelimesini canlandır: hoşlanmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LIKE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "tr": "sevmek",
     "sentence": "I love reading books.",
     "meaning": "Kitap okumayı seviyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LOVE kelimesini canlandır: sevmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LOVE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "tr": "çalışmak",
     "sentence": "I work in an office.",
     "meaning": "Bir ofiste çalışıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WORK kelimesini canlandır: çalışmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WORK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "tr": "yaşamak",
     "sentence": "I live in Istanbul.",
     "meaning": "İstanbul'da yaşıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LIVE kelimesini canlandır: yaşamak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LIVE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "tr": "öğrenmek",
     "sentence": "I learn English every day.",
     "meaning": "Her gün İngilizce öğreniyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LEARN kelimesini canlandır: öğrenmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LEARN kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "tr": "konuşmak",
     "sentence": "I speak a little English.",
     "meaning": "Biraz İngilizce konuşuyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SPEAK kelimesini canlandır: konuşmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SPEAK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "tr": "okumak",
     "sentence": "I read before bed.",
     "meaning": "Yatmadan önce kitap okurum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde READ kelimesini canlandır: okumak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede READ kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "tr": "yazmak",
     "sentence": "Please write your name.",
     "meaning": "Lütfen adını yaz.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WRITE kelimesini canlandır: yazmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WRITE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "tr": "dinlemek",
     "sentence": "I listen to music.",
     "meaning": "Müzik dinlerim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LISTEN kelimesini canlandır: dinlemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LISTEN kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "tr": "yemek yemek",
     "sentence": "We eat dinner at eight.",
     "meaning": "Akşam yemeğini sekizde yeriz.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EAT kelimesini canlandır: yemek yemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EAT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "tr": "içmek",
     "sentence": "I drink tea in the morning.",
     "meaning": "Sabah çay içerim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DRINK kelimesini canlandır: içmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DRINK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "tr": "uyumak",
     "sentence": "I sleep for eight hours.",
     "meaning": "Sekiz saat uyurum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SLEEP kelimesini canlandır: uyumak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SLEEP kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "tr": "yürümek",
     "sentence": "I walk to the shop.",
     "meaning": "Dükkâna yürürüm.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WALK kelimesini canlandır: yürümek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WALK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "tr": "satın almak",
     "sentence": "I want to buy a new phone.",
     "meaning": "Yeni bir telefon almak istiyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BUY kelimesini canlandır: satın almak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BUY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "tr": "ödemek",
     "sentence": "Can I pay by card?",
     "meaning": "Kartla ödeyebilir miyim?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde PAY kelimesini canlandır: ödemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede PAY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "tr": "açmak",
     "sentence": "Open the window, please.",
     "meaning": "Lütfen pencereyi aç.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde OPEN kelimesini canlandır: açmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede OPEN kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "tr": "kapatmak",
     "sentence": "Close the door.",
     "meaning": "Kapıyı kapat.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CLOSE kelimesini canlandır: kapatmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CLOSE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "tr": "başlamak",
     "sentence": "The lesson starts now.",
     "meaning": "Ders şimdi başlıyor.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde START kelimesini canlandır: başlamak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede START kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "tr": "bitirmek",
     "sentence": "I finish work at six.",
     "meaning": "İşi altıda bitiririm.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FINISH kelimesini canlandır: bitirmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FINISH kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "tr": "yardım etmek",
     "sentence": "Can you help me?",
     "meaning": "Bana yardım edebilir misin?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HELP kelimesini canlandır: yardım etmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HELP kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "tr": "sormak",
     "sentence": "Can I ask a question?",
     "meaning": "Bir soru sorabilir miyim?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde ASK kelimesini canlandır: sormak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede ASK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "tr": "cevaplamak",
     "sentence": "Please answer me.",
     "meaning": "Lütfen bana cevap ver.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde ANSWER kelimesini canlandır: cevaplamak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede ANSWER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "tr": "beklemek",
     "sentence": "Please wait a minute.",
     "meaning": "Lütfen bir dakika bekle.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WAIT kelimesini canlandır: beklemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WAIT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "tr": "aramak",
     "sentence": "I will call you tonight.",
     "meaning": "Seni bu akşam arayacağım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CALL kelimesini canlandır: aramak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CALL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "tr": "buluşmak",
     "sentence": "Let's meet tomorrow.",
     "meaning": "Yarın buluşalım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MEET kelimesini canlandır: buluşmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MEET kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "tr": "vermek",
     "sentence": "Give me a minute.",
     "meaning": "Bana bir dakika ver.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde GIVE kelimesini canlandır: vermek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede GIVE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "tr": "almak",
     "sentence": "Take your bag.",
     "meaning": "Çantanı al.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TAKE kelimesini canlandır: almak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TAKE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "tr": "bulmak",
     "sentence": "I can't find my keys.",
     "meaning": "Anahtarlarımı bulamıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FIND kelimesini canlandır: bulmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FIND kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "tr": "hissetmek",
     "sentence": "I feel tired today.",
     "meaning": "Bugün yorgun hissediyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FEEL kelimesini canlandır: hissetmek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FEEL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "tr": "hatırlamak",
     "sentence": "I remember your name.",
     "meaning": "Adını hatırlıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde REMEMBER kelimesini canlandır: hatırlamak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede REMEMBER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "tr": "unutmak",
     "sentence": "Don't forget your phone.",
     "meaning": "Telefonunu unutma.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FORGET kelimesini canlandır: unutmak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FORGET kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "tr": "anlamak",
     "sentence": "I understand the question.",
     "meaning": "Soruyu anlıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde UNDERSTAND kelimesini canlandır: anlamak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede UNDERSTAND kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "tr": "mutlu",
     "sentence": "She is happy today.",
     "meaning": "O bugün mutlu.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HAPPY kelimesini canlandır: mutlu anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HAPPY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "tr": "üzgün",
     "sentence": "He looks sad.",
     "meaning": "Üzgün görünüyor.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SAD kelimesini canlandır: üzgün anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SAD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "tr": "yorgun",
     "sentence": "I am very tired.",
     "meaning": "Çok yorgunum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TIRED kelimesini canlandır: yorgun anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TIRED kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "tr": "aç",
     "sentence": "I am hungry.",
     "meaning": "Açım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HUNGRY kelimesini canlandır: aç anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HUNGRY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "tr": "susamış",
     "sentence": "Are you thirsty?",
     "meaning": "Susadın mı?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde THIRSTY kelimesini canlandır: susamış anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede THIRSTY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "tr": "meşgul",
     "sentence": "I am busy right now.",
     "meaning": "Şu anda meşgulüm.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BUSY kelimesini canlandır: meşgul anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BUSY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "tr": "boş; ücretsiz",
     "sentence": "Are you free tonight?",
     "meaning": "Bu akşam müsait misin?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FREE kelimesini canlandır: boş; ücretsiz anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FREE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "tr": "kolay",
     "sentence": "This question is easy.",
     "meaning": "Bu soru kolay.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EASY kelimesini canlandır: kolay anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EASY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "tr": "zor",
     "sentence": "English is not difficult.",
     "meaning": "İngilizce zor değil.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DIFFICULT kelimesini canlandır: zor anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DIFFICULT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "tr": "güzel",
     "sentence": "It is a beautiful day.",
     "meaning": "Güzel bir gün.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BEAUTIFUL kelimesini canlandır: güzel anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BEAUTIFUL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "tr": "önemli",
     "sentence": "This is important.",
     "meaning": "Bu önemli.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde IMPORTANT kelimesini canlandır: önemli anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede IMPORTANT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "tr": "farklı",
     "sentence": "We have different ideas.",
     "meaning": "Farklı fikirlerimiz var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DIFFERENT kelimesini canlandır: farklı anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DIFFERENT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "tr": "erken",
     "sentence": "I get up early.",
     "meaning": "Erken kalkarım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EARLY kelimesini canlandır: erken anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EARLY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "tr": "geç",
     "sentence": "Sorry, I am late.",
     "meaning": "Üzgünüm, geç kaldım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LATE kelimesini canlandır: geç anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LATE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 59,
@@ -469,7 +527,8 @@
     "tr": "her zaman",
     "sentence": "I always drink water.",
     "meaning": "Her zaman su içerim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde ALWAYS kelimesini canlandır: her zaman anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede ALWAYS kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 60,
@@ -477,7 +536,8 @@
     "tr": "genellikle",
     "sentence": "I usually walk to work.",
     "meaning": "Genellikle işe yürürüm.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde USUALLY kelimesini canlandır: genellikle anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede USUALLY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 61,
@@ -485,7 +545,8 @@
     "tr": "bazen",
     "sentence": "I sometimes cook dinner.",
     "meaning": "Bazen akşam yemeği yaparım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SOMETIMES kelimesini canlandır: bazen anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SOMETIMES kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 62,
@@ -493,7 +554,8 @@
     "tr": "asla; hiç",
     "sentence": "I never smoke.",
     "meaning": "Asla sigara içmem.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NEVER kelimesini canlandır: asla; hiç anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NEVER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 63,
@@ -501,7 +563,8 @@
     "tr": "bugün",
     "sentence": "Today is a good day.",
     "meaning": "Bugün güzel bir gün.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TODAY kelimesini canlandır: bugün anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TODAY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 64,
@@ -509,7 +572,8 @@
     "tr": "yarın",
     "sentence": "See you tomorrow.",
     "meaning": "Yarın görüşürüz.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TOMORROW kelimesini canlandır: yarın anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TOMORROW kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 65,
@@ -517,7 +581,8 @@
     "tr": "dün",
     "sentence": "I was at home yesterday.",
     "meaning": "Dün evdeydim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde YESTERDAY kelimesini canlandır: dün anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede YESTERDAY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 66,
@@ -525,7 +590,8 @@
     "tr": "sabah",
     "sentence": "Good morning!",
     "meaning": "Günaydın!",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MORNING kelimesini canlandır: sabah anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MORNING kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 67,
@@ -533,7 +599,8 @@
     "tr": "akşam",
     "sentence": "I read in the evening.",
     "meaning": "Akşamları kitap okurum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EVENING kelimesini canlandır: akşam anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EVENING kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 68,
@@ -541,7 +608,8 @@
     "tr": "gece",
     "sentence": "Good night!",
     "meaning": "İyi geceler!",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NIGHT kelimesini canlandır: gece anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NIGHT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 69,
@@ -549,7 +617,8 @@
     "tr": "hafta",
     "sentence": "I work five days a week.",
     "meaning": "Haftada beş gün çalışırım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WEEK kelimesini canlandır: hafta anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WEEK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 70,
@@ -557,7 +626,8 @@
     "tr": "zaman; saat",
     "sentence": "What time is it?",
     "meaning": "Saat kaç?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TIME kelimesini canlandır: zaman; saat anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TIME kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 71,
@@ -565,7 +635,8 @@
     "tr": "saat",
     "sentence": "Wait for one hour.",
     "meaning": "Bir saat bekle.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HOUR kelimesini canlandır: saat anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HOUR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 72,
@@ -573,7 +644,8 @@
     "tr": "dakika",
     "sentence": "Just a minute, please.",
     "meaning": "Bir dakika lütfen.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MINUTE kelimesini canlandır: dakika anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MINUTE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 73,
@@ -581,7 +653,8 @@
     "tr": "gün",
     "sentence": "Have a nice day.",
     "meaning": "İyi günler.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DAY kelimesini canlandır: gün anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DAY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 74,
@@ -589,7 +662,8 @@
     "tr": "insanlar",
     "sentence": "Many people live here.",
     "meaning": "Burada birçok insan yaşıyor.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde PEOPLE kelimesini canlandır: insanlar anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede PEOPLE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 75,
@@ -597,7 +671,8 @@
     "tr": "arkadaş",
     "sentence": "He is my best friend.",
     "meaning": "O benim en iyi arkadaşım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FRIEND kelimesini canlandır: arkadaş anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FRIEND kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 76,
@@ -605,7 +680,8 @@
     "tr": "aile",
     "sentence": "My family is big.",
     "meaning": "Ailem kalabalık.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FAMILY kelimesini canlandır: aile anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FAMILY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 77,
@@ -613,7 +689,8 @@
     "tr": "anne",
     "sentence": "My mother is at home.",
     "meaning": "Annem evde.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MOTHER kelimesini canlandır: anne anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MOTHER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 78,
@@ -621,7 +698,8 @@
     "tr": "baba",
     "sentence": "My father likes music.",
     "meaning": "Babam müziği sever.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FATHER kelimesini canlandır: baba anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FATHER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 79,
@@ -629,7 +707,8 @@
     "tr": "ev",
     "sentence": "I am going home.",
     "meaning": "Eve gidiyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HOME kelimesini canlandır: ev anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HOME kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 80,
@@ -637,7 +716,8 @@
     "tr": "ev; bina",
     "sentence": "Their house is beautiful.",
     "meaning": "Onların evi güzel.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HOUSE kelimesini canlandır: ev; bina anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HOUSE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 81,
@@ -645,7 +725,8 @@
     "tr": "oda",
     "sentence": "My room is small.",
     "meaning": "Odam küçük.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde ROOM kelimesini canlandır: oda anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede ROOM kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 82,
@@ -653,7 +734,8 @@
     "tr": "kapı",
     "sentence": "The door is open.",
     "meaning": "Kapı açık.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DOOR kelimesini canlandır: kapı anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DOOR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 83,
@@ -661,7 +743,8 @@
     "tr": "pencere",
     "sentence": "Open the window.",
     "meaning": "Pencereyi aç.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WINDOW kelimesini canlandır: pencere anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WINDOW kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 84,
@@ -669,7 +752,8 @@
     "tr": "masa",
     "sentence": "The book is on the table.",
     "meaning": "Kitap masanın üzerinde.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TABLE kelimesini canlandır: masa anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TABLE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 85,
@@ -677,7 +761,8 @@
     "tr": "sandalye",
     "sentence": "Please sit on this chair.",
     "meaning": "Lütfen bu sandalyeye otur.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CHAIR kelimesini canlandır: sandalye anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CHAIR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 86,
@@ -685,7 +770,8 @@
     "tr": "kitap",
     "sentence": "This book is interesting.",
     "meaning": "Bu kitap ilginç.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BOOK kelimesini canlandır: kitap anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BOOK kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 87,
@@ -693,7 +779,8 @@
     "tr": "su",
     "sentence": "Can I have some water?",
     "meaning": "Biraz su alabilir miyim?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WATER kelimesini canlandır: su anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WATER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 88,
@@ -701,7 +788,8 @@
     "tr": "yiyecek; yemek",
     "sentence": "The food is delicious.",
     "meaning": "Yemek lezzetli.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FOOD kelimesini canlandır: yiyecek; yemek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FOOD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 89,
@@ -709,7 +797,8 @@
     "tr": "para",
     "sentence": "I don't have much money.",
     "meaning": "Çok param yok.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MONEY kelimesini canlandır: para anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MONEY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 90,
@@ -717,7 +806,8 @@
     "tr": "fiyat",
     "sentence": "What is the price?",
     "meaning": "Fiyatı nedir?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde PRICE kelimesini canlandır: fiyat anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede PRICE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 91,
@@ -725,7 +815,8 @@
     "tr": "dükkân; mağaza",
     "sentence": "The shop is closed.",
     "meaning": "Mağaza kapalı.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SHOP kelimesini canlandır: dükkân; mağaza anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SHOP kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 92,
@@ -733,7 +824,8 @@
     "tr": "sokak",
     "sentence": "This street is very busy.",
     "meaning": "Bu sokak çok kalabalık.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde STREET kelimesini canlandır: sokak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede STREET kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 93,
@@ -741,7 +833,8 @@
     "tr": "şehir",
     "sentence": "I love this city.",
     "meaning": "Bu şehri seviyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CITY kelimesini canlandır: şehir anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CITY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 94,
@@ -749,7 +842,8 @@
     "tr": "ülke",
     "sentence": "Turkey is a beautiful country.",
     "meaning": "Türkiye güzel bir ülke.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde COUNTRY kelimesini canlandır: ülke anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede COUNTRY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 95,
@@ -757,7 +851,8 @@
     "tr": "araba",
     "sentence": "My car is new.",
     "meaning": "Arabam yeni.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CAR kelimesini canlandır: araba anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CAR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 96,
@@ -765,7 +860,8 @@
     "tr": "otobüs",
     "sentence": "I take the bus to work.",
     "meaning": "İşe otobüsle giderim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BUS kelimesini canlandır: otobüs anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BUS kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 97,
@@ -773,7 +869,8 @@
     "tr": "tren",
     "sentence": "The train is late.",
     "meaning": "Tren gecikti.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TRAIN kelimesini canlandır: tren anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TRAIN kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 98,
@@ -781,7 +878,8 @@
     "tr": "okul",
     "sentence": "The school is near my home.",
     "meaning": "Okul evime yakın.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SCHOOL kelimesini canlandır: okul anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SCHOOL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 99,
@@ -789,7 +887,8 @@
     "tr": "öğretmen",
     "sentence": "Our teacher is kind.",
     "meaning": "Öğretmenimiz nazik.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde TEACHER kelimesini canlandır: öğretmen anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede TEACHER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 100,
@@ -797,7 +896,8 @@
     "tr": "öğrenci",
     "sentence": "I am an English student.",
     "meaning": "İngilizce öğrencisiyim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde STUDENT kelimesini canlandır: öğrenci anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede STUDENT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 101,
@@ -805,7 +905,8 @@
     "tr": "dil",
     "sentence": "English is a useful language.",
     "meaning": "İngilizce faydalı bir dildir.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LANGUAGE kelimesini canlandır: dil anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LANGUAGE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 102,
@@ -813,7 +914,8 @@
     "tr": "soru",
     "sentence": "I have a question.",
     "meaning": "Bir sorum var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde QUESTION kelimesini canlandır: soru anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede QUESTION kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 103,
@@ -821,7 +923,8 @@
     "tr": "sorun",
     "sentence": "We have a small problem.",
     "meaning": "Küçük bir sorunumuz var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde PROBLEM kelimesini canlandır: sorun anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede PROBLEM kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 104,
@@ -829,7 +932,8 @@
     "tr": "fikir",
     "sentence": "That is a good idea.",
     "meaning": "Bu iyi bir fikir.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde IDEA kelimesini canlandır: fikir anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede IDEA kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 105,
@@ -837,7 +941,8 @@
     "tr": "küçük",
     "sentence": "I live in a small flat.",
     "meaning": "Küçük bir dairede yaşıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SMALL kelimesini canlandır: küçük anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SMALL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 106,
@@ -845,7 +950,8 @@
     "tr": "büyük",
     "sentence": "This is a large room.",
     "meaning": "Bu büyük bir oda.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LARGE kelimesini canlandır: büyük anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LARGE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 107,
@@ -853,7 +959,8 @@
     "tr": "büyük",
     "sentence": "I have a big family.",
     "meaning": "Kalabalık bir ailem var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BIG kelimesini canlandır: büyük anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BIG kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 108,
@@ -861,7 +968,8 @@
     "tr": "uzun",
     "sentence": "It is a long road.",
     "meaning": "Bu uzun bir yol.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LONG kelimesini canlandır: uzun anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LONG kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 109,
@@ -869,7 +977,8 @@
     "tr": "kısa",
     "sentence": "The film is short.",
     "meaning": "Film kısa.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SHORT kelimesini canlandır: kısa anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SHORT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 110,
@@ -877,7 +986,8 @@
     "tr": "yeni",
     "sentence": "I have a new phone.",
     "meaning": "Yeni bir telefonum var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NEW kelimesini canlandır: yeni anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NEW kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 111,
@@ -885,7 +995,8 @@
     "tr": "eski; yaşlı",
     "sentence": "This is an old book.",
     "meaning": "Bu eski bir kitap.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde OLD kelimesini canlandır: eski; yaşlı anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede OLD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 112,
@@ -893,7 +1004,8 @@
     "tr": "iyi",
     "sentence": "Have a good day.",
     "meaning": "İyi günler.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde GOOD kelimesini canlandır: iyi anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede GOOD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 113,
@@ -901,7 +1013,8 @@
     "tr": "kötü",
     "sentence": "The weather is bad.",
     "meaning": "Hava kötü.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BAD kelimesini canlandır: kötü anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BAD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 114,
@@ -909,7 +1022,8 @@
     "tr": "doğru; sağ",
     "sentence": "Your answer is right.",
     "meaning": "Cevabın doğru.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde RIGHT kelimesini canlandır: doğru; sağ anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede RIGHT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 115,
@@ -917,7 +1031,8 @@
     "tr": "yanlış",
     "sentence": "This number is wrong.",
     "meaning": "Bu numara yanlış.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WRONG kelimesini canlandır: yanlış anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WRONG kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 116,
@@ -925,7 +1040,8 @@
     "tr": "sıcak",
     "sentence": "It is hot today.",
     "meaning": "Bugün hava sıcak.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde HOT kelimesini canlandır: sıcak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede HOT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 117,
@@ -933,7 +1049,8 @@
     "tr": "soğuk",
     "sentence": "The water is cold.",
     "meaning": "Su soğuk.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde COLD kelimesini canlandır: soğuk anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede COLD kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 118,
@@ -941,7 +1058,8 @@
     "tr": "temiz",
     "sentence": "Keep your room clean.",
     "meaning": "Odanı temiz tut.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde CLEAN kelimesini canlandır: temiz anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede CLEAN kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 119,
@@ -949,7 +1067,8 @@
     "tr": "kirli",
     "sentence": "My shoes are dirty.",
     "meaning": "Ayakkabılarım kirli.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde DIRTY kelimesini canlandır: kirli anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede DIRTY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 120,
@@ -957,7 +1076,8 @@
     "tr": "dolu",
     "sentence": "The bus is full.",
     "meaning": "Otobüs dolu.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FULL kelimesini canlandır: dolu anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FULL kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 121,
@@ -965,7 +1085,8 @@
     "tr": "boş",
     "sentence": "The bottle is empty.",
     "meaning": "Şişe boş.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EMPTY kelimesini canlandır: boş anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EMPTY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 122,
@@ -973,7 +1094,8 @@
     "tr": "hoş; güzel",
     "sentence": "It is nice to meet you.",
     "meaning": "Tanıştığıma memnun oldum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NICE kelimesini canlandır: hoş; güzel anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NICE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 123,
@@ -981,7 +1103,8 @@
     "tr": "komik",
     "sentence": "That story is funny.",
     "meaning": "O hikâye komik.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FUNNY kelimesini canlandır: komik anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FUNNY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 124,
@@ -989,7 +1112,8 @@
     "tr": "ilginç",
     "sentence": "This film is interesting.",
     "meaning": "Bu film ilginç.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde INTERESTING kelimesini canlandır: ilginç anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede INTERESTING kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 125,
@@ -997,7 +1121,8 @@
     "tr": "hazır",
     "sentence": "Are you ready?",
     "meaning": "Hazır mısın?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde READY kelimesini canlandır: hazır anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede READY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 126,
@@ -1005,7 +1130,8 @@
     "tr": "belki",
     "sentence": "Maybe I will come.",
     "meaning": "Belki gelirim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MAYBE kelimesini canlandır: belki anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MAYBE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 127,
@@ -1013,7 +1139,8 @@
     "tr": "önce",
     "sentence": "Wash your hands before dinner.",
     "meaning": "Akşam yemeğinden önce ellerini yıka.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde BEFORE kelimesini canlandır: önce anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede BEFORE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 128,
@@ -1021,7 +1148,8 @@
     "tr": "sonra",
     "sentence": "Call me after work.",
     "meaning": "İşten sonra beni ara.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde AFTER kelimesini canlandır: sonra anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede AFTER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 129,
@@ -1029,7 +1157,8 @@
     "tr": "ile",
     "sentence": "I live with my family.",
     "meaning": "Ailemle yaşıyorum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WITH kelimesini canlandır: ile anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WITH kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 130,
@@ -1037,7 +1166,8 @@
     "tr": "-sız; olmadan",
     "sentence": "I drink tea without sugar.",
     "meaning": "Şekersiz çay içerim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde WITHOUT kelimesini canlandır: -sız; olmadan anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede WITHOUT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 131,
@@ -1045,7 +1175,8 @@
     "tr": "altında",
     "sentence": "The cat is under the table.",
     "meaning": "Kedi masanın altında.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde UNDER kelimesini canlandır: altında anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede UNDER kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 132,
@@ -1053,7 +1184,8 @@
     "tr": "yakın",
     "sentence": "The station is near here.",
     "meaning": "İstasyon buraya yakın.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NEAR kelimesini canlandır: yakın anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NEAR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 133,
@@ -1061,7 +1193,8 @@
     "tr": "uzak",
     "sentence": "My office is far from home.",
     "meaning": "Ofisim eve uzak.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FAR kelimesini canlandır: uzak anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FAR kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 134,
@@ -1069,7 +1202,8 @@
     "tr": "sol",
     "sentence": "Turn left here.",
     "meaning": "Buradan sola dön.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde LEFT kelimesini canlandır: sol anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede LEFT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 135,
@@ -1077,7 +1211,8 @@
     "tr": "ilk; birinci",
     "sentence": "This is my first lesson.",
     "meaning": "Bu benim ilk dersim.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde FIRST kelimesini canlandır: ilk; birinci anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede FIRST kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 136,
@@ -1085,7 +1220,8 @@
     "tr": "sonraki; gelecek",
     "sentence": "See you next week.",
     "meaning": "Gelecek hafta görüşürüz.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde NEXT kelimesini canlandır: sonraki; gelecek anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede NEXT kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 137,
@@ -1093,7 +1229,8 @@
     "tr": "her",
     "sentence": "I study every day.",
     "meaning": "Her gün çalışırım.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde EVERY kelimesini canlandır: her anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede EVERY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 138,
@@ -1101,7 +1238,8 @@
     "tr": "çok (sayılabilen)",
     "sentence": "How many people are there?",
     "meaning": "Kaç kişi var?",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MANY kelimesini canlandır: çok (sayılabilen) anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MANY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 139,
@@ -1109,7 +1247,8 @@
     "tr": "biraz; bazı",
     "sentence": "I need some help.",
     "meaning": "Biraz yardıma ihtiyacım var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde SOME kelimesini canlandır: biraz; bazı anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede SOME kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 140,
@@ -1117,7 +1256,8 @@
     "tr": "daha fazla",
     "sentence": "I need more time.",
     "meaning": "Daha fazla zamana ihtiyacım var.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde MORE kelimesini canlandır: daha fazla anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede MORE kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 141,
@@ -1125,7 +1265,8 @@
     "tr": "çok",
     "sentence": "I am very happy.",
     "meaning": "Çok mutluyum.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde VERY kelimesini canlandır: çok anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede VERY kelimesi kocaman harflerle beliriyor."
   },
   {
     "id": 142,
@@ -1133,6 +1274,7 @@
     "tr": "tekrar",
     "sentence": "Please say it again.",
     "meaning": "Lütfen tekrar söyle.",
-    "level": "A1"
+    "level": "A1",
+    "memory": "Zihninde AGAIN kelimesini canlandır: tekrar anlamını taşıyan büyük, renkli ve biraz komik bir sahne hayal et. Bu sahnede AGAIN kelimesi kocaman harflerle beliriyor."
   }
 ]
