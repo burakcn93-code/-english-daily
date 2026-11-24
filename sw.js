@@ -1,4 +1,4 @@
-const CACHE = 'english-daily-v14';
+const CACHE = 'english-daily-v15';
 const CORE = ['./', './index.html', './manifest.json', './data/a1.json'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)).catch(() => {}));
