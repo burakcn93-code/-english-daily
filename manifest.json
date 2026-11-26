@@ -1,9 +1,9 @@
 {
-  "name": "English Daily",
+  "name": "English Daily · Akıllı İlerleme",
   "short_name": "English Daily",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f3f6fb",
-  "theme_color": "#17243a"
+  "theme_color": "#5546d8"
 }
